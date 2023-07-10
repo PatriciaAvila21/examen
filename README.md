@@ -1,2 +1,10 @@
 # examen
-examen
+
+Para la realizacion de esta actividad se crea una red neuronal para predecir una imagen de ejemplo y saber en que calse se ecnuentra de los datos que tenemos como entrenamiento o TRAIN, tambien podemos ver el porcentaje de exactitud de la imagen, indicando el porctenaje.
+Aparte podemos obtener graficas para saber con mas exactitud el estudio, en este ejemplo no pude avanzar hacer esa parte, pero sin embarago puedo mencionar que durante mis estudios anteriores pude hacer practicas bastante parecida a este tema, solo que se trabajo con R, vuelv y repido bastante parecida pero no iguales.
+
+He visto varios videos de entrenamiento de datos, como la clasificacion de perros, gatos y gorilas, la imagen que podemos recortarla en 4 partes y ver 1/4 de la imagen, la clasificacion mediante una dataset enorme donde podemos obtener con mas exactitud las variables que uno busca, por ejemplo un dataset del covid 19 en plema pandemia, podemos ver un pronostico que las personas que fueron mas afectadas de acuerdo a su rango de edad, de acuerdo a las enfermedades asociadas, si se encontraba en UCI, que tan compicado esta su estado de salud, y podemos obtener un  promedio de cada uno de estos campoos y de acuerdo a eso poder tomar decisiones;y algunos ejemplos mas. 
+Las clasificaciones que hay son muchas y con cada una de ellas podemos realizar un sin numero de busqueda que nos puede ayudar a entender mas en lo que es entrenamiento de datos, y sin es cierto es que podemos ver y analizar que estos son bastante usados en lo que es salud, para poder detectar anomalias en el cuerpo humano, y no solo hay tambien podemos verlo en nuestro trabajo por ejemplo en un reloj biometrico de asistencia, y unas cosas mas; y esto es solo una pequeña parte de lo que est tratamiento de datos de acuerdo a lo que es imagen.
+
+Podemos concluir que las redes neuronales son unas de las herramientas mas utilizadas por nosotros los humanos, todo con el fin de imitar los comportamiento de si mismo, y poder obtener con mas exactitud el pronosticoo entre dos variables.
+Con todos estos datos incrustado en una red neuronal se esta creando una base de datos de conocimientos con los parametros que facilita el aprendizaje de la red neuronal.
